@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files (optional but recommended)
+*.pkl
+*.joblib
+
+# Data files (optional if large)
+data/
+datasets/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Environment variables
+.env
